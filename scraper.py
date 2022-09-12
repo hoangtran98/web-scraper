@@ -1,3 +1,4 @@
+# import libs
 import requests
 from bs4 import BeautifulSoup
 import csv
