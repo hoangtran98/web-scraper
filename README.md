@@ -1,9 +1,7 @@
 <h2>Simple Web Scraper using BeautifulSoup Python</h2>
 
-This application is designed to scrape web contents which are then exported to spreadsheet format (CSV).
-
 <h3>Installing dependencies</h3>
-<code>pip install requests beautifulsoup</code>
+pip install requests beautifulsoup
 
 <h3>Make it your own?</h3>
 <ul>
